@@ -1,0 +1,1 @@
+My agent built 40 entries, earned $0, and its idea of "revising" is rewriting a file byte-for-byte identical until the server rejects it.
